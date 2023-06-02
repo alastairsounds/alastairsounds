@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on: <br>•   🔱 Trydent<br>•    🎞 SMPTE Spot<br><br>🌱 I'm currently learning Tensorflow
+🔭 I’m currently working on: <br>•   🔱 Trydent<br>•    🎞 SMPTE Spot<br><br>🌱 I'm currently building with Tensorflow
 
 
 ## 🌐 Socials:
